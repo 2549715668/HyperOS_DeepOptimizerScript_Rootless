@@ -57,11 +57,9 @@ adb shell pm uninstall --user 0 com.xiaomi.market
 adb shell pm uninstall --user 0 com.miui.backup
 adb shell pm uninstall --user 0 com.android.fileexplorer
 adb shell pm uninstall --user 0 com.xiaomi.barrage
-adb shell pm uninstall --user 0 com.android.contacts
 adb shell pm uninstall --user 0 com.xiaomi.mirror
 adb shell pm uninstall --user 0 com.miui.voicetrigger
 adb shell pm uninstall --user 0 com.xiaomi.gamecenter.sdk.service
-adb shell pm uninstall --user 0 com.android.mms
 adb shell pm uninstall --user 0 com.xiaomi.aiasst.vision
 adb shell pm uninstall --user 0 com.android.quicksearchbox
 adb shell pm uninstall --user 0 com.xiaomi.mtb
